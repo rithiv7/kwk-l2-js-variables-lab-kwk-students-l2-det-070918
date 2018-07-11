@@ -2,4 +2,4 @@
 var companyName = 'Scuber';
 
 var mostProfitableNeighborhood = 'Chelsea'
-var company 
+var companyCeo = "" 
